@@ -21,6 +21,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moonlitusun&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlitusun)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=moonlitusun&show_icons=true&theme=radical"
+    alt="Roc Sun's github-readme-stats"
+    style="width: 50%; height: 400px"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonlitusun&theme=vision-friendly-dark&layout=compact"
+    alt="Roc Sun's top-langs"
+    style="width: 50%;height: 400px"
+  />
+</div>
