@@ -2,9 +2,11 @@
 
 This is Roc Sun!
 
-- 🔭 I’m currently working as a web developer!
+
+
+- 🔭 FE / Python!
 - 💬 Enjoy thinking!
-- 💬 Enjoy coding!
+- 🤔 Enjoy coding!
 
 <!--
 **moonlitusun/moonlitusun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
