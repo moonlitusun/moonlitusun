@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![](https://fastly.jsdelivr.net/gh/moonlitusun/GitHub-Stats@latest/generated/overview.svg)
+![](https://fastly.jsdelivr.net/gh/moonlitusun/GitHub-Stats@latest/generated/languages.svg)
+
 <table>
   <body>
     <tr>
