@@ -27,10 +27,10 @@ Here are some ideas to get you started:
   <body>
     <tr>
       <td width="50%" align="center">
-        <img alt="Roc Sun's github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=moonlitusun&show_icons=true&theme=radical&count_private=true&random=7" />
+        <img alt="Roc Sun's github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=moonlitusun&show_icons=true&theme=radical&count_private=true&random=8" />
       </td>
       <td width="50%" align="center">
-        <img alt="Roc Sun's top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonlitusun&theme=vision-friendly-dark&layout=compact&random=6" />
+        <img alt="Roc Sun's top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonlitusun&theme=vision-friendly-dark&layout=compact&random=7" />
       </td>
     </tr>
   </body>
