@@ -4,7 +4,8 @@ This is Roc Sun!
 
 
 
-- 🔭 FE / Node.js / Python / Shell!
+- 🔭 FE / Node.js
+- 🏄🏻 Python / Bash!
 - 💬 Enjoy thinking!
 - 🤔 Enjoy coding!
 
