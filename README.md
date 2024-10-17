@@ -31,7 +31,7 @@ Here are some ideas to get you started:
         <img alt="Roc Sun's github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=moonlitusun&show_icons=true&rank_icon=github&theme=ocean_dark&count_private=true&hide=stars&random=1" />
       </td>
       <td width="50%" align="center">
-        <img alt="Roc Sun's top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonlitusun&theme=ocean_dark&count_private=true&hide=scss,css,html,smarty,php&layout=compact&random=1" />
+        <img alt="Roc Sun's top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonlitusun&theme=ocean_dark&count_private=true&hide=scss,css,html,smarty,php,VBScript&layout=compact&random=1" />
       </td>
     </tr>
   </body>
