@@ -5,7 +5,8 @@ This is Roc Sun!
 
 
 - 🔭 FE / Node.js
-- 🏄🏻 Python / Bash!
+- 🏄🏻 Python / Bash / Dart
+- 📚 Rust
 - 💬 Enjoy thinking!
 - 🤔 Enjoy coding!
 
