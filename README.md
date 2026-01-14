@@ -28,12 +28,22 @@ Here are some ideas to get you started:
 <table>
   <body>
     <tr>
-      <td width="50%" align="center">
-         <img alt="moonlitusun's github-readme-stats" style="width: 100%; height: 190px" src="https://github-readme-stats.vercel.app/api?username=moonlitusun&show_icons=true&rank_icon=github&theme=ocean_dark&count_private=true&random=5" />
-      </td>
-      <td width="50%" align="center">
-        <img alt="moonlitusun's top-langs" style="width: 100%; height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonlitusun&theme=ocean_dark&count_private=true&hide=scss,css,html,smarty,php,VBScript,JavaScript&layout=compact&langs_count=5&random=5" />
-      </td>
+   <td width="50%" align="center">
+  <img
+    alt="moonlitusun's github stats"
+    style="width: 100%; height: 190px"
+    src="https://github-readme-stats-fast.vercel.app/api?username=moonlitusun&show_icons=true&rank_icon=github&theme=ocean_dark&count_private=true"
+  />
+</td>
+
+<td width="50%" align="center">
+  <img
+    alt="moonlitusun's top langs"
+    style="width: 100%; height: 150px"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moonlitusun&theme=ocean_dark&count_private=true&hide=scss,css,html,smarty,php,VBScript,JavaScript&layout=compact&langs_count=5"
+  />
+</td>
+
     </tr>
   </body>
 </table>
