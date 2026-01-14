@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 <table>
   <body>
-    <tr>
    <td width="50%" align="center">
   <img
     alt="moonlitusun's github stats"
@@ -43,7 +42,5 @@ Here are some ideas to get you started:
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moonlitusun&theme=ocean_dark&count_private=true&hide=scss,css,html,smarty,php,VBScript,JavaScript&layout=compact&langs_count=5"
   />
 </td>
-
-    </tr>
   </body>
 </table>
