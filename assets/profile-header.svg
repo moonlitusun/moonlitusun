@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Roc · moonlitusun</title><desc id="desc">AI agents, developer tools and frontend-leaning full-stack development. A warm sun crosses a pale moon on an ink blue background.</desc>
+<rect width="1200" height="320" rx="18" fill="#172531"/>
+<g fill="none" stroke="#324653"><path d="M790 0v320M0 260h1200"/><circle cx="1010" cy="125" r="150"/><circle cx="1010" cy="125" r="118"/><path d="M790 125h410"/></g>
+<circle cx="1000" cy="122" r="82" fill="#dbe6df"/><circle cx="1041" cy="95" r="77" fill="#172531"/>
+<circle cx="916" cy="174" r="46" fill="#f3aa73"/>
+<g fill="#dbe6df"><circle cx="845" cy="58" r="3"/><circle cx="1141" cy="212" r="3"/><path d="M1100 32v12m-6-6h12" stroke="#dbe6df" stroke-width="2"/></g>
+<text x="54" y="59" fill="#93b2bb" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">MOONLITUSUN</text>
+<text x="48" y="179" fill="#eef1e8" font-family="Arial,Helvetica,sans-serif" font-size="114" font-weight="700" letter-spacing="-7">Roc.</text>
+<text x="56" y="222" fill="#ccd8d9" font-family="Arial,sans-serif" font-size="23">Enjoy thinking. Enjoy coding.</text>
+<text x="55" y="296" fill="#9cb6be" font-family="Arial,sans-serif" font-size="16">AI AGENTS &amp; SYSTEMS</text><text x="343" y="296" fill="#f3aa73" font-family="Arial,sans-serif" font-size="16">FULL-STACK</text><text x="505" y="296" fill="#9cb6be" font-family="Arial,sans-serif" font-size="16">DEVELOPER TOOLS</text>
+</svg>

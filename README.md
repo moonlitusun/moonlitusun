@@ -1,45 +1,51 @@
-### Hi there 👋🏻
+![Roc. Enjoy thinking. Enjoy coding. AI agents, developer tools, frontend-leaning full-stack development.](assets/profile-header.svg)
 
-This is Roc!
+<p align="center">
+  <a href="https://moonlit.vip"><b>Website ↗</b></a> &nbsp; · &nbsp;
+  <a href="https://github.com/moonlitusun"><b>GitHub ↗</b></a> &nbsp; · &nbsp;
+  <a href="https://twitter.com/moonlitusun"><b>X ↗</b></a>
+</p>
 
+<br>
 
+### Building AI agents, backed by full-stack engineering.
 
-- 🔭 AI / FE / Python
-- 🏄🏻 Bash / Dart
-- 💬 Enjoy thinking!
-- 🤔 Enjoy coding!
+I'm Roc, a **full-stack developer with a frontend focus**, currently building **AI agents and developer tools**.
 
-<!--
-**moonlitusun/moonlitusun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like understanding how things work, then building something of my own.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack & skills
 
-<table>
-  <body>
-   <td width="50%" align="center">
-  <img
-    alt="moonlitusun's github stats"
-    style="width: 100%; height: 190px"
-    src="https://github-readme-stats-fast.vercel.app/api?username=moonlitusun&show_icons=true&rank_icon=github&theme=ocean_dark&count_private=true"
-  />
-</td>
+**AI & agents**
 
-<td width="50%" align="center">
-  <img
-    alt="moonlitusun's top langs"
-    style="width: 100%; height: 150px"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moonlitusun&theme=ocean_dark&count_private=true&hide=ruby,objective-c,dockerfile,kotlin,swift,scss,css,html,smarty,php,VBScript,JavaScript&layout=compact&langs_count=4"
-  />
-</td>
-  </body>
-</table>
+`LLM applications` · `Coding agents` · `LangGraph` · `MCP` · `Skills`
+
+**Languages & frontend**
+
+![TypeScript, Python, Rust, React, Vue](https://skillicons.dev/icons?i=ts,python,rust,react,vue&theme=dark)
+
+**Build tools, backend & desktop**
+
+![Vite, Webpack, FastAPI, Tauri](https://skillicons.dev/icons?i=vite,webpack,fastapi,tauri&theme=dark)
+
+**Also exploring**
+
+![Bash, Dart](https://skillicons.dev/icons?i=bash,dart&theme=dark)
+
+<br>
+
+## Selected work
+
+| 🪐 &nbsp; [Cora ↗](https://github.com/moonlitusun/cora) | ⚡ &nbsp; [ESBoot ↗](https://github.com/esboot-sky/esboot) |
+| :--- | :--- |
+| **AI coding platform** | **Frontend infrastructure** |
+| A workbench connecting local coding sessions with cloud task execution, code review, verification, and delivery. | A shared engineering workflow across Vite, Webpack, and Rspack, with consistent conventions and an extensible plugin system. |
+| `Agents` `Desktop & cloud` `MCP & Skills` | `Build systems` `Plugins` `Developer experience` |
+
+<br>
+
+---
+
+<p align="center"><sub>⛅ The sun on the cloud. &nbsp; Always something worth building.</sub></p>
