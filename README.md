@@ -23,13 +23,13 @@ I build high-stakes software where rendering performance and data reliability ma
 `LLM applications` · `Coding agents` · `LangGraph` · `MCP` · `Skills`
 
 **Languages & frontend**  
-![TypeScript, Python, Rust, React, Vue](https://skillicons.dev/icons?i=ts,python,rust,react,vue&theme=dark)
+![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark "TypeScript") ![Python](https://skillicons.dev/icons?i=python&theme=dark "Python") ![Rust](https://skillicons.dev/icons?i=rust&theme=dark "Rust") ![React](https://skillicons.dev/icons?i=react&theme=dark "React") ![Vue](https://skillicons.dev/icons?i=vue&theme=dark "Vue")
 
 **Build tools, backend & desktop**  
-![Vite, Webpack, FastAPI, Tauri](https://skillicons.dev/icons?i=vite,webpack,fastapi,tauri&theme=dark)
+![Vite](https://skillicons.dev/icons?i=vite&theme=dark "Vite") ![Webpack](https://skillicons.dev/icons?i=webpack&theme=dark "Webpack") ![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark "FastAPI") ![Tauri](https://skillicons.dev/icons?i=tauri&theme=dark "Tauri")
 
 **Also exploring**  
-![Bash, Dart](https://skillicons.dev/icons?i=bash,dart&theme=dark)
+![Bash](https://skillicons.dev/icons?i=bash&theme=dark "Bash") ![Dart](https://skillicons.dev/icons?i=dart&theme=dark "Dart")
 
 ---
 
