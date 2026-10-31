@@ -1,12 +1,148 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-<title id="title">Roc · moonlitusun</title><desc id="desc">AI agents, developer tools and frontend-leaning full-stack development. A warm sun crosses a pale moon on an ink blue background.</desc>
-<rect width="1200" height="320" rx="18" fill="#172531"/>
-<g fill="none" stroke="#324653"><path d="M790 0v320M0 260h1200"/><circle cx="1010" cy="125" r="150"/><circle cx="1010" cy="125" r="118"/><path d="M790 125h410"/></g>
-<circle cx="1000" cy="122" r="82" fill="#dbe6df"/><circle cx="1041" cy="95" r="77" fill="#172531"/>
-<circle cx="916" cy="174" r="46" fill="#f3aa73"/>
-<g fill="#dbe6df"><circle cx="845" cy="58" r="3"/><circle cx="1141" cy="212" r="3"/><path d="M1100 32v12m-6-6h12" stroke="#dbe6df" stroke-width="2"/></g>
-<text x="54" y="59" fill="#93b2bb" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">MOONLITUSUN</text>
-<text x="48" y="179" fill="#eef1e8" font-family="Arial,Helvetica,sans-serif" font-size="114" font-weight="700" letter-spacing="-7">Roc.</text>
-<text x="56" y="222" fill="#ccd8d9" font-family="Arial,sans-serif" font-size="23">Enjoy thinking. Enjoy coding.</text>
-<text x="55" y="296" fill="#9cb6be" font-family="Arial,sans-serif" font-size="16">AI AGENTS &amp; SYSTEMS</text><text x="343" y="296" fill="#f3aa73" font-family="Arial,sans-serif" font-size="16">FULL-STACK</text><text x="505" y="296" fill="#9cb6be" font-family="Arial,sans-serif" font-size="16">DEVELOPER TOOLS</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="100%" height="240" fill="none">
+  <defs>
+    <!-- Background Canvas Gradient -->
+    <linearGradient id="canvas-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f17" />
+      <stop offset="50%" stop-color="#0e1420" />
+      <stop offset="100%" stop-color="#0c1019" />
+    </linearGradient>
+
+    <!-- Border Subtle Gradient -->
+    <linearGradient id="border-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#30363d" stop-opacity="0.8" />
+      <stop offset="40%" stop-color="#7dd3fc" stop-opacity="0.3" />
+      <stop offset="70%" stop-color="#fb923c" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#30363d" stop-opacity="0.8" />
+    </linearGradient>
+
+    <!-- Warm Cozy Sun Shaders -->
+    <linearGradient id="sun-warm" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fde047" />
+      <stop offset="45%" stop-color="#fb923c" />
+      <stop offset="100%" stop-color="#f97316" />
+    </linearGradient>
+
+    <radialGradient id="sun-ambient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fb923c" stop-opacity="0.35" />
+      <stop offset="60%" stop-color="#fb923c" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#fb923c" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Soft Lunar Shaders -->
+    <linearGradient id="moon-soft" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="40%" stop-color="#f1f5f9" />
+      <stop offset="85%" stop-color="#cbd5e1" />
+      <stop offset="100%" stop-color="#94a3b8" />
+    </linearGradient>
+
+    <radialGradient id="moon-ambient" cx="45%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#bae6fd" stop-opacity="0.25" />
+      <stop offset="70%" stop-color="#38bdf8" stop-opacity="0.05" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </radialGradient>
+
+    <style>
+      .mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <!-- Container Base Card -->
+  <rect width="1000" height="240" rx="14" fill="url(#canvas-bg)" stroke="url(#border-glow)" stroke-width="1" />
+
+  <!-- ==================== LEFT: NAME & PRIMARY SKILLS ==================== -->
+  <g transform="translate(64, 0)">
+    <!-- Small Brand / Handle -->
+    <text x="0" y="72" class="mono" font-size="12" font-weight="600" fill="#717d91" letter-spacing="4">MOONLITUSUN</text>
+
+    <!-- Name -->
+    <text x="0" y="128" class="sans" font-size="52" font-weight="700" fill="#f8fafc" letter-spacing="-1">Roc</text>
+
+    <!-- Primary Skills (FinTech & High-Performance Charts Highlighted) -->
+    <g transform="translate(0, 172)">
+      <text class="sans" font-size="14.5" font-weight="500" fill="#cbd5e1" letter-spacing="0.3">
+        FinTech <tspan fill="#475569">·</tspan> High-Performance Charts <tspan fill="#475569">·</tspan> AI Agents <tspan fill="#475569">·</tspan> Full-Stack
+      </text>
+    </g>
+  </g>
+
+  <!-- ==================== RIGHT: COZY SUN, MOON & CUTE STARS ==================== -->
+  <g id="celestial-system">
+    <!-- Soft Background Ambient Lights -->
+    <circle cx="815" cy="118" r="90" fill="url(#sun-ambient)" />
+    <circle cx="740" cy="120" r="75" fill="url(#moon-ambient)" />
+
+    <!-- Cute Sparkle Stars (Rounded 4-Point Stars & Twinkles) -->
+    <g transform="translate(640, 55)">
+      <circle r="6" fill="#7dd3fc" fill-opacity="0.25" />
+      <path d="M 0 -8 Q 0 0 -8 0 Q 0 0 0 8 Q 0 0 8 0 Q 0 0 0 -8 Z" fill="#ffffff" />
+    </g>
+
+    <g transform="translate(905, 45)">
+      <circle r="7" fill="#fde047" fill-opacity="0.3" />
+      <path d="M 0 -9 Q 0 0 -9 0 Q 0 0 0 9 Q 0 0 9 0 Q 0 0 0 -9 Z" fill="#fef9c3" />
+    </g>
+
+    <g transform="translate(945, 175)">
+      <circle r="6" fill="#fde047" fill-opacity="0.25" />
+      <path d="M 0 -7 Q 0 0 -7 0 Q 0 0 0 7 Q 0 0 7 0 Q 0 0 0 -7 Z" fill="#ffffff" />
+    </g>
+
+    <g transform="translate(615, 150)">
+      <circle r="5" fill="#bae6fd" fill-opacity="0.25" />
+      <path d="M 0 -6 Q 0 0 -6 0 Q 0 0 0 6 Q 0 0 6 0 Q 0 0 0 -6 Z" fill="#f8fafc" />
+    </g>
+
+    <!-- Little Cute Round Twinkle Dots (Pastel Colors) -->
+    <circle cx="685" cy="85" r="2.5" fill="#ffffff" />
+    <circle cx="715" cy="55" r="1.5" fill="#bae6fd" />
+    <circle cx="665" cy="190" r="2" fill="#e2e8f0" opacity="0.8" />
+    <circle cx="625" cy="105" r="1.5" fill="#ffffff" opacity="0.6" />
+    <circle cx="700" cy="185" r="2" fill="#7dd3fc" opacity="0.75" />
+
+    <circle cx="875" cy="175" r="2.5" fill="#fef08a" />
+    <circle cx="915" cy="140" r="2" fill="#fed7aa" />
+    <circle cx="945" cy="90" r="2" fill="#ffffff" opacity="0.9" />
+    <circle cx="965" cy="125" r="1.5" fill="#fde68a" opacity="0.7" />
+    <circle cx="845" cy="38" r="2" fill="#fef9c3" />
+    <circle cx="875" cy="82" r="1.5" fill="#ffffff" opacity="0.5" />
+    <circle cx="928" cy="40" r="2" fill="#fef08a" />
+
+    <!-- ==================== WARM CUTE SUN ==================== -->
+    <g transform="translate(815, 118)">
+      <!-- 8 Soft Rounded Rays (Friendly Capsule Rays) -->
+      <g fill="#fb923c" opacity="0.85">
+        <rect x="-2.5" y="-50" width="5" height="11" rx="2.5" />
+        <rect x="-2.5" y="39" width="5" height="11" rx="2.5" />
+        <rect x="-50" y="-2.5" width="11" height="5" rx="2.5" />
+        <rect x="39" y="-2.5" width="11" height="5" rx="2.5" />
+        <g transform="rotate(45)">
+          <rect x="-2" y="-47" width="4" height="9" rx="2" />
+          <rect x="-2" y="38" width="4" height="9" rx="2" />
+          <rect x="-47" y="-2" width="9" height="4" rx="2" />
+          <rect x="38" y="-2" width="9" height="4" rx="2" />
+        </g>
+      </g>
+
+      <!-- Soft Sun Orb -->
+      <circle cx="0" cy="0" r="32" fill="url(#sun-warm)" />
+      
+      <!-- Inner Warm Highlight Curve -->
+      <circle cx="-6" cy="-6" r="24" fill="#fef08a" fill-opacity="0.25" />
+    </g>
+
+    <!-- ==================== GENTLE SILVER MOON ==================== -->
+    <g transform="translate(745, 120)">
+      <!-- Crescent Moon (Soft, Cozy Curve Embracing the Sun) -->
+      <path d="M 16 -32 
+               A 36 36 0 1 0 16 32 
+               A 32 32 0 0 1 16 -32 Z" 
+            fill="url(#moon-soft)" />
+
+      <!-- Moon Rim Light -->
+      <path d="M 16 -32 A 36 36 0 1 0 16 32" 
+            stroke="#ffffff" stroke-width="1.2" stroke-linecap="round" opacity="0.8" fill="none" />
+    </g>
+  </g>
 </svg>
